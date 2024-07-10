@@ -16,6 +16,9 @@ nav{
   margin-top: 65px;
   align-items: center;
 }
+.nav-name{
+  margin-bottom: 60px;
+}
 .nav-btn{
   width: 122px;
   height: 30px;
