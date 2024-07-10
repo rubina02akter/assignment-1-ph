@@ -64,6 +64,9 @@ nav{
   margin-left: 170px;
   margin-top: 15px;
 }
+a{
+  color: black;
+}
 /*section - 1 styels*/
 
 .part-1{
@@ -170,4 +173,23 @@ nav{
   margin-left: 185px;
   margin-right: 200px;
   margin-top: 50px;
+}
+/* next target section styles */
+.next-target-section{
+  display: flex;
+  margin-left: 210px;
+  margin-right: 200px;
+  margin-top: 20px;
+  border: 1px solid gray;
+  width: 810px;
+  height: 150px;
+  border-radius: 10px;
+  padding: 10px 0 10px 20px;
+}
+.logo{
+  width: 80px;
+  height: 70px;
+  margin-right: 40px;
+  margin-left: 15px;
+  margin-top: 40px;
 }
